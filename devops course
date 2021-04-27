@@ -5,7 +5,8 @@ docker
 jenkins
 tomcat
 sonarqube
-
+kubernaates
+maven
 
 
 
